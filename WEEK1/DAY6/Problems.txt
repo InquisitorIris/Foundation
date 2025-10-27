@@ -1,0 +1,27 @@
+Day 6 — Weekend Practice (10 Practice + 10 Pattern = 20 Problems)
+
+Practice Problems (10):
+
+1. Find sum of squares of first N numbers.
+2. Find product of digits of N.
+3. Find smallest digit in N.
+4. Find largest digit in N.
+5. Check if N is strong number (sum of factorials of digits = N).
+6. Find power (a^b) using loop.
+7. Display multiplication tables 1–10.
+8. Count positive, negative and zeros in a list of N numbers.
+9. Compute average of entered numbers until user enters 0.
+10. Find HCF and LCM for array of numbers.
+
+Pattern Problems (10):
+
+11. Right triangle of stars.
+12. Inverted triangle of stars.
+13. Full pyramid of stars.
+14. Number triangle (1 2 3…).
+15. Floyd’s triangle.
+16. Hollow square.
+17. Diamond pattern.
+18. Pascal’s triangle (up to N rows).
+19. Numeric pyramid (1, 22, 333…).
+20. Hourglass pattern.
