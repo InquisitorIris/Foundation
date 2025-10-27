@@ -1,0 +1,7 @@
+Day 1 — Getting Started (5 Problems)
+
+1. Print “Hello, World!”
+2. Read two integers A, B and print A + B.
+3. Read a person’s name and age; print a greeting.
+4. Check whether a number is even or odd.
+5. Find the largest among three numbers.
