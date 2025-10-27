@@ -1,0 +1,17 @@
+Day 7 — Weekend Advanced + Mini-Project (10 Advanced + 1 Project)
+
+Advanced Problems (10):
+
+1. Find all Armstrong numbers between 1 and N.
+2. Find all perfect numbers between 1 and N.
+3. Print series 1 + 11 + 111 + … for N terms.
+4. Print primes in a given range [a,b].
+5. Check if number is automorphic (last digits = its square).
+6. Check if number is Harshad (N divisible by sum of digits).
+7. Check if number is abundant (sum of divisors > N).
+8. Compute sum of series 1² + 2² + 3² + … + N².
+9. Compute sum of series 1³ + 2³ + … + N³.
+10. Generate first N Fibonacci numbers without using array (only variables).
+
+Mini Project:
+Build a Console Calculator that performs addition, subtraction, multiplication, and division repeatedly until the user chooses “exit.”
