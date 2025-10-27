@@ -1,0 +1,7 @@
+Day 4 — Iteration Practice (5 Problems)
+
+1. Print multiplication table for N.
+2. Print sum of even and odd numbers separately up to N.
+3. Check whether a character is vowel or consonant.
+4. Find sum of digits of N.
+5. Check if N is an Armstrong number.
