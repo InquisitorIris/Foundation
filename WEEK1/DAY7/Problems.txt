@@ -12,6 +12,3 @@ Advanced Problems (10):
 8. Compute sum of series 1² + 2² + 3² + … + N².
 9. Compute sum of series 1³ + 2³ + … + N³.
 10. Generate first N Fibonacci numbers without using array (only variables).
-
-Mini Project:
-Build a Console Calculator that performs addition, subtraction, multiplication, and division repeatedly until the user chooses “exit.”
